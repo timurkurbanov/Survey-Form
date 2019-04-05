@@ -1,0 +1,41 @@
+#main {
+  background-color: #a3bace;
+  padding-bottom: 50px;
+}
+#title {
+  text-align: center;
+}
+#description {
+  text-align: center;
+}
+.form-outer {
+  background-color: white;
+  margin-left: 20%;
+  margin-right: 20%;
+  max-width: 70%;
+  padding: 40px;
+}
+.labels {
+  display: inline-block;
+  text-align: right;
+  vertical-align: top;
+  width: 40%;
+  padding: 5px;
+  margin-top: 10px;
+}
+.inputs {
+  display: inline-block;
+  text-align: left;
+  vertical-align: top;
+  width: 40%;
+  margin-top: 10px;
+}
+#submit-button {
+  text-align: center;
+  margin-top: 25px;
+}
+#additional {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
